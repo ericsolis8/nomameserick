@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/nomameserick/static/css/main.5f361e03.chunk.css",
+    "main.js": "/nomameserick/static/js/main.213b8890.chunk.js",
+    "main.js.map": "/nomameserick/static/js/main.213b8890.chunk.js.map",
+    "runtime-main.js": "/nomameserick/static/js/runtime-main.0c3a10a8.js",
+    "runtime-main.js.map": "/nomameserick/static/js/runtime-main.0c3a10a8.js.map",
+    "static/js/2.471f3d16.chunk.js": "/nomameserick/static/js/2.471f3d16.chunk.js",
+    "static/js/2.471f3d16.chunk.js.map": "/nomameserick/static/js/2.471f3d16.chunk.js.map",
+    "index.html": "/nomameserick/index.html",
+    "precache-manifest.1a5fdb6836ff332382742d8efb6cef4f.js": "/nomameserick/precache-manifest.1a5fdb6836ff332382742d8efb6cef4f.js",
+    "service-worker.js": "/nomameserick/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/nomameserick/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.471f3d16.chunk.js.LICENSE.txt": "/nomameserick/static/js/2.471f3d16.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/nomameserick/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0c3a10a8.js",
+    "static/js/2.471f3d16.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.213b8890.chunk.js"
+  ]
+}
